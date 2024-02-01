@@ -130,7 +130,7 @@ p {
 }
 
 .panda-container-item2 {
-  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+  background: linear-gradient(180deg, #d48ca9 -0.01%, #ff136f 99.99%);
 }
 
 .panda-container-item2:hover{
@@ -140,7 +140,7 @@ p {
 }
 
 .panda-container-item3 {
-  background: linear-gradient(170.41deg, #4289ff -10.89%, #674ac6 92.77%);
+  background: linear-gradient(170.41deg, #b0f2ca -10.89%, #036019 92.77%);
 }
 
 .panda-container-item3:hover{
@@ -163,8 +163,8 @@ p {
 
 .card-btn {
   background-color: #ff136f;
-  color: black;
-  font-weight: 500;
+  color: whitesmoke;
+  font-weight: 400;
 }
 
 /* Subscribe Section */
